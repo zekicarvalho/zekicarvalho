@@ -10,4 +10,4 @@
 
   👇   Você pode me encontrar aqui 👇
  
-   [![linkedin](https://user-images.githubusercontent.com/37448340/87230217-d1223200-c384-11ea-83c1-27175c5f45b2.png)](https://www.linkedin.com/in/ezequiel-alves-688a7214a/)
+   [![linkedin](https://user-images.githubusercontent.com/37448340/87230217-d1223200-c384-11ea-83c1-27175c5f45b2.png)](https://www.linkedin.com/in/ezequielcarvalho/)
