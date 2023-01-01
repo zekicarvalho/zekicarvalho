@@ -5,5 +5,4 @@
 - 📚 Sou formado em Analíse e desenvolvimento de sistema, atualmente estudando análise de dados.
 - 🦏 Eu estou focando meus estudos em Python/Pandas e Power BI.
 - 🙌 Adoro projetos Open Source e colaboro sempre que possivel.
-- 😎 Meu primeiro projeto é [Sistema de cadastro](https://github.com/zekicarvalho/CadastroPhp) , mas ainda tenho muito a melhorar nele.
 
